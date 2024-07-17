@@ -8,7 +8,9 @@ export default function ReadLaterScreen() {
         <>
             <Navbar />
             <main className="main">
-                <SideNavbar />
+                <SideNavbar 
+                    activePage="Read Later"
+                />
                 <div className="main--col2">
                     <ReadLater />
                 </div>

@@ -8,7 +8,7 @@ Introducing ViewPoint, the ultimate news aggregation app that brings all your fa
 
 ![App Home Screenshot](/readme-assets//screenshot.png)
 
-![App Read Later Screenshot](/readme-assets//screenshot-readlater.png)
+![App Read Later Screenshot](/readme-assets/screenshot-readlater.png)
 
 
 ## Environment Variables

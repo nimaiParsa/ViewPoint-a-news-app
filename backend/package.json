@@ -1,0 +1,28 @@
+{
+  "name": "news-app",
+  "version": "1.0.0",
+  "description": "A web app which collects news from different sources and displays them together",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Nimai Parsa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-async-errors": "^3.1.1",
+    "http-status-codes": "^2.3.0",
+    "jsdom": "^24.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.5",
+    "puppeteer": "^22.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
